@@ -2,7 +2,17 @@
 
 GYM Pusulası, egzersizleri keşfetmeyi ve haftalık antrenman planını takip etmeyi amaçlayan bir Android uygulamasıdır.
 
-> Bu depo şu anda uygulamanın tanıtımını ve ekran görüntülerini içeriyor. Kaynak kodu ve indirilebilir bir Android paketi henüz bu depoda bulunmuyor.
+> Bu depoda uygulamanın tanıtımı, ekran görüntüleri ve indirilebilir bir test sürümü bulunuyor. Android kaynak kodu henüz paylaşılmadı.
+
+## Uygulamayı indir
+
+[GYM Pusulası v1.0.0 test sürümünü indir (APK)](https://github.com/Egesagbas/gym-pusulasi/releases/download/v1.0.0/GYM-Pusulasi-Yemek-Planli.apk)
+
+- Gerekli Android sürümü: **7.0 veya üzeri**
+- APK boyutu: **8,74 MB**
+- SHA-256: `BBA7621D11FE28116D6CCBF61570AC9E5789A7E6972067E80925D816543A42DE`
+
+APK'yi Android cihazına indirip açarak yükleyebilirsin. Cihaz, dışarıdan indirilen uygulamalar için yükleme izni isteyebilir. Bu sürüm GitHub'da **test sürümü** olarak işaretlenmiştir.
 
 ## Uygulamadan görüntüler
 
@@ -21,8 +31,8 @@ GYM Pusulası, egzersizleri keşfetmeyi ve haftalık antrenman planını takip e
 - Haftalık antrenman planı örneği
 - Gelişim takibi ve ilk gün rehberi için gezinme bağlantıları
 
-## Durum
+## Proje durumu
 
-Bu depodan uygulama henüz indirilemiyor veya derlenemiyor. Android kaynak kodu ya da indirilebilir sürüm yayımlandığında bağlantı ve kurulum adımları buraya eklenecek.
+Uygulamanın test APK'si indirilebilir. Kaynak kodu bu depoda yer almadığı için uygulama buradan derlenemez. Kod yayımlandığında geliştirme ve derleme adımları eklenecek.
 
 Geliştirici: Ege Sağbaş
