@@ -36,3 +36,7 @@ APK'yi Android cihazına indirip açarak yükleyebilirsin. Cihaz, dışarıdan i
 Uygulamanın test APK'si indirilebilir. Kaynak kodu bu depoda yer almadığı için uygulama buradan derlenemez. Kod yayımlandığında geliştirme ve derleme adımları eklenecek.
 
 Geliştirici: Ege Sağbaş
+
+## Haklar
+
+© 2026 Ege Sağbaş. Tüm hakları saklıdır. Bu depo, kaynak kodu için bir kullanım lisansı vermez.
