@@ -1,13 +1,28 @@
-# probable-fiesta
-Gym Pusulası: Egzersiz rehberi, antrenman ve gelişim takibi, haftalık programlar ve otomatik yemek planları sunan Android uygulaması. Geliştirici: Ege Sağbaş.
+# GYM Pusulası
 
-## 📱 Uygulama Ekran Görüntüleri
+GYM Pusulası, egzersizleri keşfetmeyi ve haftalık antrenman planını takip etmeyi amaçlayan bir Android uygulamasıdır.
 
-### Ana Ekran
-![GYM Pusulası ana ekranı](<ChatGPT Görseli 13 Eki 2026 19_41_49.jpg>)
+> Bu depo şu anda uygulamanın tanıtımını ve ekran görüntülerini içeriyor. Kaynak kodu ve indirilebilir bir Android paketi henüz bu depoda bulunmuyor.
+
+## Uygulamadan görüntüler
+
+### Ana ekran
+![GYM Pusulası ana ekranı](docs/images/ana-ekran.jpg)
 
 ### Egzersizler
-![GYM Pusulası egzersiz rehberi](<ChatGPT Görseli 13 Eki 2026 19_42_19.jpg>)
+![Egzersiz kartlarının bulunduğu ekran](docs/images/egzersizler.jpg)
 
-### Haftalık Antrenman Planı
-![GYM Pusulası haftalık antrenman planı](<ChatGPT Görseli 13 Eki 2026 19_42_10.jpg>)
+### Haftalık antrenman planı
+![Üç günlük antrenman planı örneği](docs/images/haftalik-plan.jpg)
+
+## Görünen bölümler
+
+- Egzersizleri inceleme
+- Haftalık antrenman planı örneği
+- Gelişim takibi ve ilk gün rehberi için gezinme bağlantıları
+
+## Durum
+
+Bu depodan uygulama henüz indirilemiyor veya derlenemiyor. Android kaynak kodu ya da indirilebilir sürüm yayımlandığında bağlantı ve kurulum adımları buraya eklenecek.
+
+Geliştirici: Ege Sağbaş
